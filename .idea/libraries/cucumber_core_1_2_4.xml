@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="cucumber-core-1.2.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/cucumber-java/lib/cucumber-core-1.2.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/cucumber-java/lib/cucumber-expressions-6.1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/cucumber-java/lib/cucumber-java-1.2.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/cucumber-java/lib/cucumber-java.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/cucumber-java/lib/cucumber-jvmFormatter.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/cucumber-java/lib/cucumber-jvmFormatter3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/cucumber-java/lib/cucumber-jvmFormatter4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/cucumber-java/lib/cucumber-jvmFormatter5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/cucumber-java/lib/gherkin-2.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
